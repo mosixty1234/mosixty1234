@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#6A5ACD;">Sipho Dlamini</span></h1>
-<h3 align="center" style="color:#20B2AA;">A Passionate IT Technician & Full-stack Web Dev</h3>
+<h3 align="center" style="color:#20B2AA;">A Passionate IT Technician & Web Developer</h3>
 
 <p align="center">
   <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif">
