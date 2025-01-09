@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#6A5ACD;">Sipho Dlamini</span></h1>
-<h3 align="center" style="color:#20B2AA;">A Passionate Full-stack Web Dev</h3>
+<h3 align="center" style="color:#20B2AA;">A Passionate IT Technician & Full-stack Web Dev</h3>
 
 <p align="center">
   <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif">
@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **<span style="color:#4682B4;">React, Tailwind CSS, and Node.js</span>**
 - 🔗 I’m looking to collaborate on [<span style="color:#32CD32;">My GitHub Projects</span>](https://mosixty1234.github.io/cmoos_model)
 - ⚖️ I’m seeking help with [<span style="color:#FF4500;">E-Learning Project</span>](https://mosixty1234.github.io/e-learning)
-- 🔧 My portfolio: [<span style="color:#8A2BE2;">Sipho's Portfolio</span>](https://github.com/mosixty1234/my-portfolio)
+- 🔧 My portfolio: [<span style="color:#8A2BE2;">Sipho's Portfolio</span>](https://mosixty1234.github.io/my-portfolio/)
 - 🖋️ I regularly write articles on [<span style="color:#FFD700;">LinkedIn</span>](https://linkedin.com/in/sipho-dlamini-38a0211b0)
 - 💬 Ask me about **Python, SQL, HTML & CSS**
 - 📧 Reach me at **<span style="color:#FF69B4;">scedricdlamini@gmail.com</span>**
